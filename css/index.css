@@ -197,6 +197,10 @@ a[href].tag,
 a[href].tag:visited {
   color: #fff;
 }
+img {
+  max-width: 99%;
+  max-height: 99%;
+}
 
 /* Warning */
 .warning {
