@@ -7,7 +7,7 @@ eleventyNavigation:
   order: 3
 ---
 
-Hello. I am Saugat Khadka. A Rails developer at **[Gurzu Inc](https://gurzu.com)**, formerly **[Jyaasa](http://jyaasa.com) Pvt. Ltd.**, Kathmandu, Nepal. I mainly write Rails backend and sometimes begrudgingly front end code on slim. \**shudder*\*
+Hello. I am Saugat Khadka. A Rails developer at **[Gurzu Inc](https://gurzu.com)**, formerly **[Jyaasa](http://jyaasa.com).**, Kathmandu, Nepal. I mainly write Rails backend and sometimes begrudgingly front end code on slim. \**shudder*\*
 
 Writing Rails applications and Ruby code for living, I've come to love a lot of it. 
 
@@ -19,7 +19,7 @@ I can admire a decent collection of anything really. And I really like to collec
 
 ...
 
-*Want to get to know me? <a href = "mailto:hello.saugatkhadka@gmail.com">Email</a> me. I'd be more than happy to hear from you.* 😉
+*Want to get to know me? <a href = "mailto:hello.saugatkhadka@gmail.com">Email</a> me. I'd be happy to hear from you.* 😉
 
 
 

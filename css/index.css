@@ -14,7 +14,8 @@
 html,
 body {
   padding: 0;
-  margin: 0;
+  margin: 0 auto 12em auto;
+  max-width: 600px;
   font-family: system-ui, sans-serif;
   color: var(--darkgray);
   background-color: var(--white);
